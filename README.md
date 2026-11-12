@@ -28,6 +28,8 @@ I'm based in Eket, Nigeria, and open to remote full-time and contract opportunit
 
 ## Beyond the code
 
+- Part of the organizing team for [WordCamp Eket 2026](https://eket.wordcamp.org/2026/recap-eket-hosts-its-first-wordcamp-from-idea-to-income-building-opportunities-with-wordpress/), supporting Eket's WordPress community.
+- Volunteered with the DevFest Eket 2025 media and volunteer teams and at Build with AI Eket 2026.
 - First place at the DevFest Eket and Build with AI hackathons; second place at Next Gen Summit Uyo.
 - Studying for a B.Sc. in Computer Science at Miva Open University.
 - Interested in product engineering, practical AI automation, and building with communities.
